@@ -22,4 +22,4 @@ s = 18
 #print "Text  : " + text 
 print "Shift : " + str(s) 
 print "Cipher: " + encrypt(text,s)
-
+#couldnt figure out spaces, but it decrypts perf
